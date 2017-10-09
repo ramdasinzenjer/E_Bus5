@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mbus_bg" >
+
+    <Spinner
+        android:id="@+id/mspinndest1"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/mspinnsrc1"
+        android:layout_below="@+id/mtxtdest1" />
+
+    <TextView
+        android:id="@+id/mtxtdest1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/mtxtsrc1"
+        android:layout_below="@+id/mspinnsrc1"
+        android:layout_marginTop="19dp"
+        android:text="Destination : "
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mtxtsrc1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/mspinnerbusabc"
+        android:layout_below="@+id/mspinnerbusabc"
+        android:layout_marginTop="25dp"
+        android:text="Source : "
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/mspinnsrc1"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mtxtsrc1"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/bt_check"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit_cusername"
+        android:layout_centerHorizontal="true"
+        android:text="Check"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt_pdata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bt_check"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Passenger data"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bt_confirmtravell"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_pdata"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:text="Confirm"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/mspinnerbusabc"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="29dp" />
+
+    <EditText
+        android:id="@+id/edit_cusername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mspinndest1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp"
+        android:ems="10"
+        android:hint="Passenger ID"
+        android:inputType="textPersonName"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" >
+
+        <requestFocus />
+    </EditText>
+
+</RelativeLayout>

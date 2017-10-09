@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/mbus_bg">
+
+    <ListView
+        android:id="@+id/my_notlist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/mt_not"
+        android:layout_alignRight="@+id/mbt_bbstation"
+        android:layout_below="@+id/mt_not"
+        android:layout_marginTop="10dp"
+        android:padding="10dp" >
+
+    </ListView>
+
+    <Button
+        android:id="@+id/mbt_bbstation"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_above="@+id/mt_not"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="35dp"
+        android:alpha=".75"
+        android:background="@color/blue"
+        android:padding="10dp"
+        android:text="Bus Between Stations"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mt_not"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/mbt_status"
+        android:layout_below="@+id/mbt_status"
+        android:layout_marginTop="28dp"
+        android:text="Notifications :"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/mb_card"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_alignBaseline="@+id/mb_usruploc"
+        android:layout_alignBottom="@+id/mb_usruploc"
+        android:layout_alignRight="@+id/mt_not"
+        android:alpha=".75"
+        android:background="@color/blue"
+        android:onClick="getCardpage"
+        android:padding="10dp"
+        android:text="Transport Card"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/mb_usruploc"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="39dp"
+        android:layout_toRightOf="@+id/mbt_status"
+        android:alpha=".75"
+        android:background="@color/blue"
+        android:onClick="getluppage"
+        android:padding="10dp"
+        android:text="Update Bus Status"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/mbt_status"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_below="@+id/mb_card"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="18dp"
+        android:layout_toLeftOf="@+id/mbt_bbstation"
+        android:alpha=".75"
+        android:background="@color/blue"
+        android:padding="10dp"
+        android:text="Current Bus Status"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+</RelativeLayout>

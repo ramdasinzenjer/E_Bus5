@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-25.2.0_8d24f34496326e4da088280f8fe03471a5670adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_b3b2c6917c1990a71bed9ea866f87de1feadcbc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-11.0.4_b8722d9399867ecfa9db8675e6f8590870b9997f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-11.0.4_3f5ea03ef7926f116830327c4bee77c652e0f5cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_36058a91aba6921ff9cb6d9ba889b491d7634bf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-11.0.4_f117aab7a51c371c3b0872e72a3dcf45560025ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-11.0.4_5dc359a57d60750fd37f32b0e4ff844c5f0df33b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-11.0.4_5b198c7abd3ee9ea963c2986c8b2a55e50f3d2e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-11.0.4_5a62160dd98e85ea52d88769bec9f8534f7d92e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_3e029df7ac64970537198414a9cdfb1c55fe1e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_990c092db572cb14a3bdcb16257c101d1e66f273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\ANDROID\ANDROID_SDK_64_BIT_SDK_&amp;_ECLIPSE\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_26043648d04280b59c91e2c7be343c5a60629ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision-common\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-common-11.0.4_33a51abf738859d1665c5f155631dab4ac1517bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-11.0.4_4c0fe5cd5866bc3324574f4020cd6cda6933e4a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-11.0.4_af8fa02f887ebfa6298d30ff45fab80f1caac0a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-11.0.4_821c9cf26467a4d45b1f5a35676052342b3033e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-11.0.4_1a337625ca7cd1457524cb2b57350bbbf6c94b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-11.0.4_b43654baf0ef02e8a671c811a509581d86b78e81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-11.0.4_c2537275328d5172238b15f26412acbecfbc936d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-11.0.4_f343bd3ccfb5d0892eaa082f238fe2c99804d449.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-11.0.4_2d037c0e5a8efd4060768fc10aa12a16d84432b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-11.0.4_77c2971c31216bd76a2a2da82fcd49e466cc92e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_823a576f744e8a57cb62d8d37306f44b0f500c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-11.0.4_0fe36bec60eb59b944e1fbdc34f081188b4e28a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-config\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-11.0.4_311acf13069a1e5aec5c335160abb19c8dfe8e57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_219dd7e73eae93106520d73e22b173aba65b6aba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_03af8c00a0532d45290e7ca40d77a614d213544c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-11.0.4_5bc4d3acdef5591a08fb24766ced6c571dfc18cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-11.0.4_31fce9e20471d2234f99476d2173aabf02e5ee65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-11.0.4_305e7517b7f3d8fe040b0869eb8fe016bd2e32e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-11.0.4_175bea920912c785109b0a3f21ac75d8b98414b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-11.0.4_8c8cd075a045329d17a13b86c3ff41c14b581d7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-11.0.4_f415aed6993f55cd8669af550aa4c89fba346378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-11.0.4_f1241e1d51ea4f7a6f909bc0d588bd25d5f436ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-11.0.4_dc09390d18e04c71e734ab20fe09d8958d1905e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-dynamic-links\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-dynamic-links-11.0.4_54b3dd4e9624f8d9118d4630e7988feef8ea4aff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-11.0.4_358f7c9d37116da0f4963ad6683fe7da3f14875d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-11.0.4_ac30231fb7ba1e4ea83ac48513b1926b04552d97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-11.0.4_06577723809b49bec9ca0ced0aba09b63253e189.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_7ba3a01c035541567ddd2ddfa93357c03bcaf853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_0b594963dd2a3b5793d1e8ab3a21da6b129e6ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-11.0.4_cc7754c0ae66ad52caa0cdd632f99a505af8da80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-11.0.4_6e68f21917002d3a1ab8f6ba0781294ec220b305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-11.0.4_9c3042b475c912a0ca68bce5d2e7778e60905472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-11.0.4_87681ca42b2bc5c12bf61195a14d17b687646853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-11.0.4_9c51543a002b6afc695ca28f2faff522b6aa261a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_9b58766de5f17783f30eef9b781f5da71282978d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-11.0.4_675dc5137092f37b466b9e04d1e89cffd9f866ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-11.0.4_e6211dd2febdaa2b18ed924c9c06ebaa80e33320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-11.0.4_1e31fd673ba52fe182bacde8455002b3a1e77604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-11.0.4_f8d746b03d37cf358510081e4c3b56e75eddfa76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-11.0.4_8894467c65eca19d8459971eb5aec9d3750aa99a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-11.0.4_baf84c19e599f74643a32365734334d76550a7c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_17d1ca81bcf1ad1c450bf1a365cb80a396e71eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.android.support\palette-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.2.0_d25b2e71069146de006308807faf32bce5cff9d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-11.0.4_76a6654ba37391eae91fa4b9b89c19d42f4edf8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_939bdfb969be9cc5e14da047dd522fed268dc3d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-api-phone\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-api-phone-11.0.4_1c53b5b159b274b089d31c83faa39bb4444e7344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-11.0.4_37d1aab1372029c9bb47be3e23986ebb9ee015f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-11.0.4_8dc0af125bd7b8960bcc52a3eb1d8636d003af3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-11.0.4_180408d81ac47f3604ce497eabb56fb51b196455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-11.0.4_d31273958f9a599ab22998484e8e93a6798359d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\E_Bus5\E_Bus\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-11.0.4_7cde66bb7bc53d5a5346330d91189aee3e6af2f2.jar" />
+    </item>
+
+</items>

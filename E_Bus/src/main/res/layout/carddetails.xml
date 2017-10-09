@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mbus_bg" >
+
+    <Spinner
+        android:id="@+id/spinner1_mcardtype"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt000000"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp" />
+
+    <TextView
+        android:id="@+id/txt0025"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt000000"
+        android:layout_below="@+id/spinner1_mcardtype"
+        android:layout_marginTop="13dp"
+        android:text="Payment"
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/mpinner_paytype"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/spinner1_mcardtype"
+        android:layout_below="@+id/txt0025"
+        android:layout_marginTop="14dp" />
+
+    <TextView
+        android:id="@+id/txt000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/text_carddetails"
+        android:layout_marginLeft="34dp"
+        android:layout_marginTop="78dp"
+        android:text="Add New Card"
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text_carddetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp"
+        android:text="Card Details"
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edit_cardno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt0025"
+        android:layout_alignRight="@+id/mpinner_paytype"
+        android:layout_below="@+id/mpinner_paytype"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="Card Number"
+        android:inputType="number" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/edit_expdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/edit_cardno"
+        android:layout_alignRight="@+id/edit_cardno"
+        android:layout_below="@+id/edit_cardno"
+        android:layout_marginTop="11dp"
+        android:ems="10"
+        android:hint="Exp date (yyyy-mm-dd)"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/btn_sendreq"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="31dp"
+        android:text="Update Card" />
+
+    <EditText
+        android:id="@+id/edit_pin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit_expdate"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:ems="10"
+        android:hint="Pin number"
+        android:inputType="textPassword" />
+
+</RelativeLayout>

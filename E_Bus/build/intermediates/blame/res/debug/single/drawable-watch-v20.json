@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\SUDHEESH\\Desktop\\Project\\E_Bus5\\E_Bus\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\SUDHEESH\\Desktop\\Project\\E_Bus5\\E_Bus\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-auth\\11.0.4\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Project\\E_Bus5\\E_Bus\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\user\\Desktop\\Project\\E_Bus5\\E_Bus\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-auth\\11.0.4\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Project\\E_Bus5\\E_Bus\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\user\\Desktop\\Project\\E_Bus5\\E_Bus\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-auth\\11.0.4\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Project\\E_Bus5\\E_Bus\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\user\\Desktop\\Project\\E_Bus5\\E_Bus\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-auth\\11.0.4\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUDHEESH\\Desktop\\Project\\E_Bus5\\E_Bus\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\SUDHEESH\\Desktop\\Project\\E_Bus5\\E_Bus\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-auth\\11.0.4\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUDHEESH\\Desktop\\Project\\E_Bus5\\E_Bus\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\SUDHEESH\\Desktop\\Project\\E_Bus5\\E_Bus\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-auth\\11.0.4\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    }
+]

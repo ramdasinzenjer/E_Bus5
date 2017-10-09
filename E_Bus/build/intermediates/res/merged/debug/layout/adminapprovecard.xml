@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/mbus_bg">
+
+    <TextView
+        android:id="@+id/mtxt_head001"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="40dp"
+        android:text="View and Approve Cards" 
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold"/>
+    
+    <ListView
+        android:id="@+id/mlist_cardreq"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_alignLeft="@+id/mtxt_head001"
+        android:layout_below="@+id/mtxt_head001"
+        android:layout_marginTop="15dp" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/mtx_viewdetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/mlist_cardreq"
+        android:layout_below="@+id/mlist_cardreq"
+        android:layout_marginTop="29dp"
+        android:text="Card details"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

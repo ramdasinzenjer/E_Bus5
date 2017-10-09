@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="firebase-dynamic-links-11.0.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/E_Bus/build/intermediates/exploded-aar/com.google.firebase/firebase-dynamic-links/11.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/E_Bus/build/intermediates/exploded-aar/com.google.firebase/firebase-dynamic-links/11.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
